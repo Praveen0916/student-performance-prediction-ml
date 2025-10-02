@@ -140,7 +140,7 @@ Licensed under the **MIT License** — see the `LICENSE` file for details.
 
 ## 👤 Author
 
-**Prajwal N**
+**Prajwal N** &&
 **Praveen H N**
 GitHub: [PrajwalN9741](https://github.com/PrajwalN9741)
 GitHub: [Praveen0916](https://github.com/Praveen0916)
